@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 ,tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://live.setn.com/Content/images/setn_NewsLogo.png" tvg-country="TW" tvg-url="" group-title="三立", 三立LIVE新聞
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 ,tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://live.setn.com/Content/images/setn_NewsLogo.png" tvg-country="TW" tvg-url="" group-title="三立", 三立iNews
+http://seb.sason.top/sc/slinews_fhd.m3u8
+
+#EXTINF:-1 ,tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" tvg-country="TW" tvg-url="" group-title="東森", 東森財經新聞台
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 ,tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" tvg-country="TW" tvg-url="" group-title="東森", 東森新聞台
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+
+#EXTINF:-1 ,tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://cc.tvbs.com.tw/img/upload/2018/05/16/20180516120513-ce4fd9aa.png" tvg-country="TW" tvg-url="" group-title="TVBS", TVBS新聞
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+
+#EXTINF:-1 ,tvg-language="Chinese;Mandarin Chinese" tvg-logo="" tvg-country="TW" tvg-url="" group-title="壹電視", 壹電視新聞台
+http://stream.nexttv.com.tw/n001/hd/live.m3u8
+
+#EXTINF:-1 ,探索頻道
+http://hdtv.haust.edu.cn/hls/discovery.m3u8
+
+#EXTINF:-1 ,group-title="MTV", MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 ,group-title="MTV",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 ,group-title="MTV",MTV WMA
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 ,group-title="MTV",MTV Spankin' New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 ,group-title="MTV",MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+
+#EXTINF:-1 ,國家地理(中國)
+http://hdtv.haust.edu.cn/hls/natlgeo.m3u8
